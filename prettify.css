@@ -1,6 +1,17 @@
 h1 {
-    color:aqua;
+    color:darkturquoise;
 }
 h2 {
     color:fuchsia;
 }
+h3 {
+    color:cadetblue;
+}
+h4 {
+    color:deeppink;
+}
+
+body {
+    background-color:floralwhite;
+}
+
